@@ -1,0 +1,10 @@
+* cl-strftime
+
+Common Lisp compiler for the strftime language
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-strftime.git   |
+| commit  | 21cb57f  |
+| systems | cl-strftime |
+|---------+-------------------------------------------|
+
