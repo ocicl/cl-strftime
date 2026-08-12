@@ -8,4 +8,4 @@ Common Lisp compiler for the strftime language
 | systems | cl-strftime |
 |---------+-------------------------------------------|
 
- 
+  
